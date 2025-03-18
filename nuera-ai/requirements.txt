@@ -1,0 +1,7 @@
+# requirements.txt
+streamlit
+sentence-transformers
+faiss-cpu
+torch
+transformers
+accelerate
